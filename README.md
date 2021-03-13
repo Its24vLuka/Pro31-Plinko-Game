@@ -1,1 +1,1 @@
-# Pro31-Plinko-Game
+# Plinko
